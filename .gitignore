@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+in2ai/play/spam/data/lingspam_public.tar.gz
